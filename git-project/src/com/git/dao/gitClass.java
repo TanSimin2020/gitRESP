@@ -5,7 +5,7 @@ public class gitClass {
 	private int id;
 	private int age;
 	public int getId() {
-		return id;
+		return id+10;
 	}
 	public void setId(int id) {
 		this.id = id;
